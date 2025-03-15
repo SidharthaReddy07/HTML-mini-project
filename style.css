@@ -1,0 +1,21 @@
+html {
+    font-size: 22px;
+    font-style:italic;
+}
+
+body {
+    min-height: 100vh;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 1rem;
+    border-left: 2px solid #333;
+    border-right: 2px solid #333;
+}
+
+th,td {
+    border : 2px solid black;
+    font-family: 'Times New Roman', Times, serif;
+    border-collapse: initial;
+    padding: 1rem;
+
+}
